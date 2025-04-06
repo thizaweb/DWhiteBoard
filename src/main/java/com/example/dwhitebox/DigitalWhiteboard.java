@@ -37,7 +37,7 @@ public class DigitalWhiteboard extends Application {
     }
 
     public static void main(String[] args) {
-        launch(args); // Launch the JavaFX application
+        launch(args); 
     }
 
     // Inner class to handle the whiteboard logic and UI components
